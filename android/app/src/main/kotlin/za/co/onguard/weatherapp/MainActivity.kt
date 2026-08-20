@@ -1,4 +1,4 @@
-package za.co.onguard.weather_app
+package za.co.onguard.weatherapp
 
 import io.flutter.embedding.android.FlutterActivity
 
